@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://www.cs.ox.ac.uk/files/10606/HoCHC_LICS.pdf
+url_pdf: files/HoCHC_LICS.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: file:///Users/domner/Research/HoCHC/LICS/talk.pdf
+url_slides: files/talk_LICS.pdf
 url_source:
 url_video:
 

@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: file:///Users/domner/Research/HoCHC/LICS/talk.pdf
+url_slides: files/talk_HCVS.pdf
 url_source:
 url_video:
 
