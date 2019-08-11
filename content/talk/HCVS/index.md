@@ -16,8 +16,8 @@ publishDate: 2019-04-07T17:37:46-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "6th Workshop on Horn Clauses for Verification and Synthesis (HCVS)"
-publication_short: ""
+publication: "6th Workshop on Horn Clauses for Verification and Synthesis"
+publication_short: "HCVS"
 
 abstract: ""
 

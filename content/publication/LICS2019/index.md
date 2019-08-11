@@ -16,8 +16,8 @@ publishDate: 2019-07-17T17:37:46-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "34th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)"
-publication_short: ""
+publication: "34th Annual ACM/IEEE Symposium on Logic in Computer Science"
+publication_short: "LICS"
 
 abstract: ""
 

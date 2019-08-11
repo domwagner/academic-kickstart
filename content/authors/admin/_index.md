@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Oxford
-    year: 2018 -- present
+    year: ongoing
   - course: MSc in Mathematics and Foundations of Computer Science
     institution: University of Oxford
     year: 2018
