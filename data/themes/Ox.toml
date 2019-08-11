@@ -18,3 +18,4 @@ home_section_odd = "rgb(243,241,235)"
 home_section_even = "rgb(243,241,235)"
 
 background = "#001D4A"
+link = "rgb(62,111,166)"

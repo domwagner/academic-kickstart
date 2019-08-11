@@ -74,5 +74,5 @@ user_groups:
   
 ---
 
-In 2018, I received an MSc in Mathematics and Foundations of Computer Science (with distinction) from the University of Oxford. Before that, I completed my Bachelor's degree in Computer Science at Saarland University. At the Max Planck Institute for Informatics, I was part of Christoph Weidenbach's group developing a SAT solver and the award-winning SMT solver SPASS-SATT. Originally, I am from a small town near Mainz, Germany. 
+In 2018, I received an MSc in Mathematics and Foundations of Computer Science (with distinction) from the University of Oxford. Before that, I completed my Bachelor's degree in Computer Science at [Saarland University](https://saarland-informatics-campus.de/en/). At the [Max Planck Institute for Informatics](https://saarland-informatics-campus.de/en/), I was part of [Christoph Weidenbach](https://saarland-informatics-campus.de/en/)'s group developing a SAT solver and the award-winning SMT solver [SPASS-SATT](https://www.mpi-inf.mpg.de/departments/automation-of-logic/software/spass-workbench/spass-satt/). Originally, I am from a small town near Mainz, Germany. 
 
