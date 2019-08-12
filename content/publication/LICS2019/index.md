@@ -22,7 +22,12 @@ publication_short: "LICS"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "foo bar"
+summary: "We present a simple resolution proof system for
+higher-order constrained Horn clauses (HoCHC)—a system of
+higher-order logic modulo theories generalising (1st-order)
+constrained Horn clauses—and prove its soundness
+and refutational completeness w.r.t. both standard and Henkin
+semantics. As corollaries, HoCHC shares desirable properties (such as semi-decidability and a canonical model property) and deciable fragments of its 1st-order counterpart."
 
 tags: []
 categories: []
