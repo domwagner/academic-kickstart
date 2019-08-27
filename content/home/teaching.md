@@ -18,6 +18,6 @@ subtitle = ""
 +++
 ### At Saarland University:
 
-* Teaching Assistant for **Fundamentals of Algorithms and Data Structures** (winter 2016 / 17)
-* Mentor for **Mathematical Preparatory Course** (Sep / Oct 2016 / 17)
+* Teaching Assistant of **Fundamentals of Algorithms and Data Structures** (winter semester 2016 / 17)
+* Mentor of **Mathematical Preparatory Course** (Sep / Oct 2016 / 17)
 

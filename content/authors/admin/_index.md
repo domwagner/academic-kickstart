@@ -21,9 +21,9 @@ organizations:
 bio: Short bio.
 
 interests:
-- (Semantical) foundations of probabilistic programming
-- Verification of higher-order functional programs
-- Automated reasoning
+- Probabilistic programming
+- Semantics of programming languages
+- Automated reasoning and verification of (higher-order functional) programs
 
 education:
   courses:
@@ -56,7 +56,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv-dominik-wagner.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below. 
 # - icon: cv
